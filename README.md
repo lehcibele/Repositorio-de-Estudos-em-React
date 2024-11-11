@@ -4,5 +4,6 @@
 ## Tecnologia 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## Documentação
-[Documentação](https://pt-br.react.dev/learn)
+https://pt-br.react.dev/learn
 ## Anotações
+https://docs.google.com/document/d/1tIq724MeZhbj2mko1YVNToaqtzaLV_A0pW80bfMXov4/edit?usp=sharing
