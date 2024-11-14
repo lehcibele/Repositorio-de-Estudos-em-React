@@ -1,3 +1,13 @@
+.subtitulo {
+  font-size: 2rem;
+  color: darkred;
+  background-color: beige;
+}
+
+li:nth-child(n) {
+  background-color: burlywood;
+}
+
 .App {
   text-align: center;
 }
